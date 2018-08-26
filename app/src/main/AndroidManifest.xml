@@ -28,7 +28,8 @@
         <activity android:name=".fulldisplayandcyclicdrag.cyclicdrag.CyclicDragActivity" />
         <activity android:name=".fulldisplayandcyclicdrag.cyclicdrag.ScrollViewAddContentActivity" />
         <activity android:name=".imagematrix.ImageMatrixActivity" />
-        <activity android:name=".imagematrix.ShowImageActivity"></activity>
+        <activity android:name=".imagematrix.ShowImageActivity" />
+        <activity android:name=".motionevent.MoveEventActivity"></activity>
     </application>
 
 </manifest>

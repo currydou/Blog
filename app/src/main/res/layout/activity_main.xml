@@ -96,8 +96,16 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onClick"
-            android:text="ImageMatrix"
-            android:textAllCaps="false" />
+            android:textAllCaps="false"
+            android:text="ImageMatrix" />
+
+        <Button
+            android:id="@+id/btn12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:textAllCaps="false"
+            android:text="MotionEvent" />
 
     </LinearLayout>
 

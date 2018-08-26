@@ -13,6 +13,7 @@ import com.example.curryzhang.hyblog.fulldisplayandcyclicdrag.fulldisplay.FullDi
 import com.example.curryzhang.hyblog.gesturelock.GestureLockActivity;
 import com.example.curryzhang.hyblog.horizontalscrollview.HorizontalScrollviewActivity;
 import com.example.curryzhang.hyblog.imagematrix.ImageMatrixActivity;
+import com.example.curryzhang.hyblog.motionevent.MoveEventActivity;
 import com.example.curryzhang.hyblog.verticalViewGroup.VerticalViewGroupActivity;
 import com.example.curryzhang.hyblog.win8clickeffect.Win8Activity;
 import com.example.curryzhang.hyblog.xiaomisms.XiaoMiSMSActivity;
@@ -63,6 +64,9 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.btn11:
                 startActivity(new Intent(MainActivity.this, ImageMatrixActivity.class));
+                break;
+            case R.id.btn12:
+                startActivity(new Intent(MainActivity.this, MoveEventActivity.class));
                 break;
         }
     }
