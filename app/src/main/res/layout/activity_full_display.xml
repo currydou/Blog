@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:zhy="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/id_scrollview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.example.curryzhang.hyblog.fulldisplayandcyclicdrag.fulldisplay.MyListView
+        android:id="@+id/id_lv"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null"
+        zhy:itemCount="8" >
+    </com.example.curryzhang.hyblog.fulldisplayandcyclicdrag.fulldisplay.MyListView>
+
+</LinearLayout>

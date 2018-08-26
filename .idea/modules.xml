@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HYBlog.iml" filepath="$PROJECT_DIR$/HYBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arcMenu/arcMenu.iml" filepath="$PROJECT_DIR$/arcMenu/arcMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhy_horizontalScrollView/zhy_horizontalScrollView.iml" filepath="$PROJECT_DIR$/zhy_horizontalScrollView/zhy_horizontalScrollView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhy_horizontalScrollView02/zhy_horizontalScrollView02.iml" filepath="$PROJECT_DIR$/zhy_horizontalScrollView02/zhy_horizontalScrollView02.iml" />
+    </modules>
+  </component>
+</project>

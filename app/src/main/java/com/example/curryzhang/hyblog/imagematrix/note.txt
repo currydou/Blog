@@ -1,0 +1,5 @@
+
+
+图片裁剪两种方式：
+1.Bitmap.createBitmap  hybolg
+2.bitmapRegionDecoder.decodeRegion android-crop-master
